@@ -11,6 +11,11 @@ A powerful Streamlit dashboard for analyzing and comparing stocks against their 
 - Configurable environment via `pyproject.toml`
 - Supports Python 3.10+ and modern dependency management
 
+## Live Demo
+
+You can try the live app here:  [Link](https://dhyeyinf-stockpeer-analyzer-streamlit-app-hemcsk.streamlit.app/?stocks=AAPL%2CMSFT%2CGOOGL%2CNVDA%2CAMZN%2CTSLA%2CMETA)
+
+
 ## Technologies Used
 
 | Technology  | Purpose                                         |
